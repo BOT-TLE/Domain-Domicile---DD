@@ -1,0 +1,11 @@
+name: AzureDeploy
+channels:
+  - defaults
+dependencies:
+  - Python=3.8.8
+  - pip
+  - pip:
+      - azureml-sdk==1.54.0
+      - numpy==1.23.5
+      - pandas==2.1.2
+      - scikit-learn==1.3.2

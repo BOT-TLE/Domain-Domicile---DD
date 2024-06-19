@@ -1,0 +1,7 @@
+{
+    "subscription_id": "4058d79e-a063-4ebf-bf0e-9f1ab5529019",
+    "resource_group": "ML-RandD-AMS",
+    "workspace_name": "WS-ML-RandD-AMS",
+    "region": "eastus",
+    "compute_target" : "amitsachdev"
+}
